@@ -11,13 +11,26 @@ permalink: citations.html
 > are used for blockquotes.
 
 > > And, they can be nested.
+```
 
+
+> Email-style angle brackets
+> are used for blockquotes.
+
+> > And, they can be nested.
+
+```
 > #### Headers in blockquotes
 > 
 > * You can quote a list.
 > * Etc.
 ```
 
+
+> #### Headers in blockquotes
+> 
+> * You can quote a list.
+> * Etc.
 
 ## Lignes horizontales
 

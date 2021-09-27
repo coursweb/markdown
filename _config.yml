@@ -1,0 +1,15 @@
+remote_theme: coursweb/jk-theme
+title: La syntaxe Markdown
+description: Petite référence Markdown.
+lang: fr-FR
+chapters:
+ - title: Cours-web
+   url: https://cours-web.ch/
+
+   # Footer content
+# Content is split in three columns.   
+footer_col_1: <ul class="contact-list">
+  <li>Fait avec ❤️ à</li>  
+  <li>Eracom, Lausanne</li>
+  <li>2017–2021</li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/coursweb/markdown">Lien Github</a></li></ul>

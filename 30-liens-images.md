@@ -4,19 +4,27 @@ title: Liens et images
 permalink: liens-images.html
 ---
 
-## Liens et images
+## Les liens
+
+Voici comment créer un lien: 
 
 ```
-An [example](http://url.com/ "Title")
+An [example](http://url.com/ "Optional Title")
+```
 
+On peut aussi définir un lien comme une note en bas de page (Reference-style links):
+
+```
 An [example][id]. Then, anywhere
 else in the doc, define the link:
 
-[id]: http://example.com/  "Title"
+[id]: http://example.com/ "Optional Title"
+```
 
-![alt text](/path/img.jpg "Title")
+## Les images
 
-![alt text][id]
+Voici comment insérer une image:
 
-[id]: /url/to/img.jpg "Title"
+```
+![alt text](/path/img.jpg "Optional Title")
 ```

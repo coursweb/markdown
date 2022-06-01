@@ -8,11 +8,11 @@ permalink: editeurs.html
 
 Editeurs de texte conçus pour écrire en MarkDown: 
 
-* [Mark Text](https://marktext.app/) (gratuit et open-source)
-* *[MacDown](https://macdown.uranusjr.com/)* (gratuit et open-source)
-* [Typora](https://typora.io/) (Free during beta)
-* *[ByWord](https://bywordapp.com/)*
-* *[iA Writer](https://ia.net/writer/)*
+* [MarkText](https://github.com/marktext/marktext) (gratuit et open-source)
+* [MacDown](https://macdown.uranusjr.com/) (gratuit et open-source)
+* [ByWord](https://bywordapp.com/) - $10.99
+* [Typora](https://typora.io/) - $14.99
+* [iA Writer](https://ia.net/writer/) - $29.99
 
 Un éditeur de texte affichant d'un côté le code MarkDown, de l'autre le résultat produit:
 

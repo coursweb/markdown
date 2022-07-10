@@ -32,3 +32,4 @@ Certains logiciels proposent davantage qu'un éditeur, mais un véritable enviro
 
 * [Zettlr](https://www.zettlr.com/) (gratuit et open-source)
 * [Obsidian](https://obsidian.md/) (application freemium)
+* [Logseq](https://logseq.com/) (gratuit et open-source)

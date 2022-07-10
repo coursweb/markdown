@@ -10,6 +10,7 @@ Editeurs de texte conçus pour écrire en MarkDown:
 
 * [MarkText](https://github.com/marktext/marktext) (gratuit et open-source)
 * [MacDown](https://macdown.uranusjr.com/) (gratuit et open-source)
+* [Zettlr](https://www.zettlr.com/) (gratuit et open-source) . un éditeur pour chercheurs et journalistes.
 * [ByWord](https://bywordapp.com/) - $10.99
 * [Typora](https://typora.io/) - $14.99
 * [iA Writer](https://ia.net/writer/) - $29.99

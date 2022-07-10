@@ -12,6 +12,7 @@ Pour en savoir plus:
 * [définition de la syntaxe MarkDown](https://daringfireball.net/projects/markdown/syntax) par John Gruber
 * [Un tutoriel sur OpenClassrooms](https://openclassrooms.com/courses/redigez-en-markdown)
 * [MarkDown Quick Reference](http://en.support.wordpress.com/markdown-quick-reference/) (anglais)
+* [Bases Markdown](https://docs.zettlr.com/fr/reference/markdown-basics/#bases-markdown), dans la documentation de Zettlr
 
 ### Approfondissement
 

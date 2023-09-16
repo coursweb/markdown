@@ -25,26 +25,26 @@ Premièrement, ajouter un retrait de quatre espaces au début de chaque ligne pr
 Deuxième méthode, ajouter **trois backticks** en début et en fin du bloc :
 
     ```
-    <h1>Exemple de code<h1>
+    window.alert("Bienvenue sur ce site !");
     ```
 
 Résultat:
 
 ```
-<h1>Exemple de code<h1>
+window.alert("Bienvenue sur ce site !");
 ```
 
 Encore mieux: on peut activer la coloration de syntaxe, en précisant après les trois premiers backticks le nom du langage (html, css, javascript...):
 
 
-    ```html
-    <h1>Exemple de code<h1>
+    ```javascript
+    window.alert("Bienvenue sur ce site !");
     ```
 
 Résultat:
 
 ```html
-<h1>Exemple de code<h1>
+window.alert("Bienvenue sur ce site !");
 ```
 
 ## Le caractère "Escape Caracter"

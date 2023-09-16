@@ -43,10 +43,10 @@ Encore mieux: on peut activer la coloration de syntaxe, en précisant après les
 
 Résultat:
 
-```html
+```javascript
 window.alert("Bienvenue sur ce site !");
 ```
 
 ## Le caractère "Escape Caracter"
 
-Si l'on veut éviter le formatage markdown, pour pouvoir utiliser les caractères spéciaux tels que les \_ ou les \*, vous devez les précéder par un "backslash" (`\`), obtenu avec `maj+option+7`)`.
+Si l'on veut éviter le formatage markdown, pour pouvoir utiliser les caractères spéciaux tels que les \_ ou les \*, il faut les précéder par un "backslash" (`\`), obtenu avec `maj+option+7`.

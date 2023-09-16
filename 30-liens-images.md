@@ -9,17 +9,28 @@ permalink: liens-images.html
 Voici comment créer un lien: 
 
 ```
-An [example](http://url.com/ "Optional Title")
+Un [lien exemple](https://example.com "Titre optionnel")
 ```
+
+Résultat: 
+
+Un [lien exemple](https://example.com "Titre optionnel")
 
 On peut aussi définir un lien comme une note en bas de page (Reference-style links):
 
 ```
-An [example][id]. Then, anywhere
-else in the doc, define the link:
+Un [exemple][id]. Puis, ailleurs dans
+votre document, définir le lien.
 
-[id]: http://example.com/ "Optional Title"
+[id]: https://example.com "Titre optionnel"
 ```
+
+Résultat:
+
+Un [exemple][id]. Puis, ailleurs dans
+votre document, définir le lien.
+
+[id]: https://example.com "Titre optionnel"
 
 ## Les images
 

@@ -19,21 +19,33 @@ Pour obtenir un bloc de code "monospaced" sur une ou plusieurs lignes, il existe
 Premièrement, ajouter un retrait de quatre espaces au début de chaque ligne produit ce résultat:
 
     <html>
-    <body>
     <h1>Exemple de code<h1>
-    </body>
     </html>
 
-Deuxième méthode, ajouter en début et en fin du bloc deux backticks:
+Deuxième méthode, ajouter **trois backticks** en début et en fin du bloc :
 
-``
-    <html>
-    <body>
+    ```
     <h1>Exemple de code<h1>
-    </body>
-    </html>
-``
+    ```
 
+Résultat:
+
+```
+<h1>Exemple de code<h1>
+```
+
+Encore mieux: on peut activer la coloration de syntaxe, en précisant après les trois premiers backticks le nom du langage (html, css, javascript...):
+
+
+    ```html
+    <h1>Exemple de code<h1>
+    ```
+
+Résultat:
+
+```html
+<h1>Exemple de code<h1>
+```
 
 ## Le caractère "Escape Caracter"
 

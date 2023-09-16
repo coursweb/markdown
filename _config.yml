@@ -1,6 +1,6 @@
 remote_theme: coursweb/jk-theme
 title: La syntaxe Markdown
-description: Petite référence Markdown.
+description: Une petite référence Markdown.
 lang: fr-FR
 chapters:
  - title: Cours-web
@@ -11,5 +11,5 @@ chapters:
 footer_col_1: <ul class="contact-list">
   <li>Confectionné avec ❤️</li>  
   <li>Eracom, Lausanne</li>
-  <li>2017–2021</li></ul>
+  <li>2017–2023</li></ul>
 footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/coursweb/markdown">Lien Github</a></li></ul>

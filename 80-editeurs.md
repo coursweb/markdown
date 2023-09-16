@@ -10,21 +10,33 @@ Editeurs de texte conçus pour écrire en MarkDown:
 
 * [MarkText](https://github.com/marktext/marktext) (gratuit et open-source)
 * [MacDown](https://macdown.uranusjr.com/) (gratuit et open-source)
-* [Zettlr](https://www.zettlr.com/) (gratuit et open-source). Un éditeur destiné aux chercheurs et journalistes.
 * [ByWord](https://bywordapp.com/) - $10.99
 * [Typora](https://typora.io/) - $14.99
 * [iA Writer](https://ia.net/writer/) - $29.99
 
-Un éditeur de texte affichant d'un côté le code MarkDown, de l'autre le résultat produit:
+MacDown, un éditeur affichant d'un côté le code MarkDown, de l'autre le résultat produit:
 
-![Edition MarkDown](img/mou-editor.png)
+![L'éditeur MacDown](img/macdown.jpg)
 
-### Utiliser un éditeur de code
+MarkText, un éditeur de texte simple et élégant :
 
-Certains éditeurs de code offrent un bon support pour les fichiers Markdown: 
+![L'éditeur MarkText](img/marktext.jpg)
 
-* *Atom*
-* *Visual Studio Code*
+### Le Markdown dans VS Code
+
+Certains éditeurs de code, tels que *Visual Studio Code*, offrent un bon support pour les fichiers Markdown. 
+
+Dans VS Code, un fichier dont le nom se termine par `.md` sera reconnu comme un fichier Markdown. VS Code permet par exemple de glisser-déposer un document ou une image pour produire le code voulu.
+
+![Glisser déposer dans VS Code](img/drop-link.gif)
+
+Avec le raccourci `⇧⌘V` on active une prévisualisation du document.
+
+Avec le raccourci `⌘K V`, on active une vue côte-à-côte du code et du résultat.
+
+![Vue côte-à-côte](img/markdown-vs-code.jpg)
+
+[Cette page donne tous les détails](https://code.visualstudio.com/docs/languages/markdown) sur le support de Markdown dans VS Code.
 
 ### Gestionnaires de notes
 
@@ -33,3 +45,7 @@ Certains logiciels proposent davantage qu'un éditeur, mais un véritable enviro
 * [Zettlr](https://www.zettlr.com/) (gratuit et open-source)
 * [Obsidian](https://obsidian.md/) (application freemium)
 * [Logseq](https://logseq.com/) (gratuit et open-source)
+
+Zettlr, un éditeur avec de nombreuses fonctionnalités d'aide à l'organisation :
+
+![L'éditeur Zettrl](img/zettlr.jpg)

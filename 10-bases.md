@@ -26,9 +26,15 @@ Header 2
 Deuxième variante, qui permet six niveaux (H1 à H6). Les # en début de ligne indiquent le niveau du titre. Les # en fin de ligne sont optionnels.
 
 ```
-# Header 1 #
+# Titre #
 
-## Header 2 ##
+## Titre de niveau 2
 
-###### Header 6
+### Titre de niveau 3
+
+#### Titre de niveau 4
+
+##### Titre de niveau 5
+
+###### Titre de niveau 6
 ```

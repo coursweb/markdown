@@ -10,9 +10,9 @@ Editeurs de texte conçus pour écrire en MarkDown:
 
 * [MarkText](https://github.com/marktext/marktext) (gratuit et open-source)
 * [MacDown](https://macdown.uranusjr.com/) (gratuit et open-source)
-* [ByWord](https://bywordapp.com/) - $10.99
-* [Typora](https://typora.io/) - $14.99
-* [iA Writer](https://ia.net/writer/) - $29.99
+* [ByWord](https://bywordapp.com/) - commercial
+* [Typora](https://typora.io/) - commercial
+* [iA Writer](https://ia.net/writer/) - commercial
 
 MacDown, un éditeur affichant d'un côté le code MarkDown, de l'autre le résultat produit:
 

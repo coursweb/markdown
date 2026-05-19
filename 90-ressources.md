@@ -19,3 +19,4 @@ Pour en savoir plus:
 Analyses approfondies:
 
 - Mpondo-Dicka Patrick, « [Le Markdown, une praxis énonciative du numérique](http://dx.doi.org/10.25965/interfaces-numeriques.3915) », *Interfaces numériques*, 2019, vol. 8, n°2.
+- [Markdown and the Slow Fade of the Formatting Fetish](https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish), ia.net, 2025

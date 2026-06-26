@@ -2,20 +2,21 @@
 
 Markdown est est un langage de balisage léger permettant d'écrire du texte avec une syntaxe facile, puis de le convertir en HTML, en PDF ou en d'autres formats. 
 
+```markdown
+## Exemple (ceci est un titre)
 
-    ## Exemple (ceci est un titre)
-    
-    Ce texte en **Markdown** comporte des mots **en gras** et en *italique*.
+Ce texte en **Markdown** comporte des mots **en gras** et en *italique*.
+```
 
 ## Exemple (ceci est un titre)
-    
-    Ce texte en **Markdown** comporte des mots **en gras** et en *italique*.
+
+Ce texte en **Markdown** comporte des mots **en gras** et en *italique*.
 
 ## Historique
 
 Le langage Markdown a été créé en 2004 par le bloggeur John Gruber avec l'aide d'Aaron Swartz.
 
-Markdown a été adopté comme syntaxe de création de contenu par des sites comme Reddit, StackOverflow et Github (pour la rédaction de commentaires, ou dans le README).
+Markdown a été adopté comme syntaxe de création de contenu par des sites comme Reddit, StackOverflow et Github (pour la rédaction de commentaires, ou dans le README). Des logiciels d'écriture comme [Notion](https://www.notion.com/help/writing-and-editing-basics#markdown-and-shortcuts), Obsidian, Ulysses ou Zettlr utilisent aussi le Markdown.
 
 ## Logiciels
 
